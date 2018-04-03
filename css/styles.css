@@ -1,12 +1,12 @@
 .jumbotron{
-color: blue;
-background-color: blue;
+color: brown;
+background-color: brown;
 color: white;
 
 }
 .sidebar{
 	float:left;
-	background-color: blue;
+	background-color: brown;
 	width: 20%;
 	height: 100%;
 	position:absolute;
