@@ -1,0 +1,23 @@
+.jumbotron{
+color: blue;
+background-color: blue;
+color: white;
+
+}
+.sidebar{
+	float:left;
+	background-color: blue;
+	width: 20%;
+	height: 100%;
+	position:absolute;
+};
+.col70{
+	width:68%;
+	float: left;
+};
+.A {
+	padding-left: 50%;
+};
+.well{
+	background-color: blue;
+};
